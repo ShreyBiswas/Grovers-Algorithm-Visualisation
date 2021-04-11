@@ -1,6 +1,6 @@
+## Grover's Algorithm Visualisation
 ![image](https://user-images.githubusercontent.com/74095821/114301808-36df4e00-9abe-11eb-97fa-d45462349477.png)
 
-## Grover's Algorithm Visualisation
 Submission by Streak#8889, to QCHack's IBM Challenge Part 1
 
 This visualisation illustrates the process of Amplitude Amplification, specifically in Grover's Algorithm. On each pass through the Oracle and Diffusion Operator, incorrect states are interfered out, increasing the probability of a single 'correct' amplitude, and decreasing the probability of all others.
