@@ -1,5 +1,5 @@
 ## Grover's Algorithm Visualisation
-![image](https://user-images.githubusercontent.com/74095821/114301808-36df4e00-9abe-11eb-97fa-d45462349477.png)
+![image](https://github.com/StreakSharn/Grovers-Algorithm-Visualisation/blob/main/animation.gif)
 
 Submission by Streak#8889, to QCHack's IBM Challenge Part 1
 
