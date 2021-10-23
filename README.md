@@ -1,7 +1,7 @@
 ## Grover's Algorithm Visualisation
 ![image](https://github.com/StreakSharn/Grovers-Algorithm-Visualisation/blob/main/animation.gif)
 
-Submission by Streak#8889, to QCHack's IBM Challenge Part 1
+A Visualisation of Grover's Search Algorithm, an algorithm to search an unsorted problem space. The visualisation shows the algorithm converging on the correct solution.
 
 This visualisation illustrates the process of Amplitude Amplification, specifically in Grover's Algorithm. On each pass through the Oracle and Diffusion Operator, incorrect states are interfered out, increasing the probability of a single 'correct' amplitude, and decreasing the probability of all others.
 
